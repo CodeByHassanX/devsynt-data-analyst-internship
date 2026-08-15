@@ -17,12 +17,12 @@ Welcome to my internship repository! This project tracks my progress and hands-o
 
 ## 🗂️ Weekly Breakdown
 
-### [Week 1: Titanic Data Preparation and Cleaning](./Week-1-titanic-data-preparation-and-cleaning)
+### [Project 1: Titanic Data Preparation and Cleaning](./Project-1-Titanic-Data-Preparation-and-Cleaning)
 **Focus:** Building a solid foundation in data preparation.
 *   **Key Skills:** Handling missing values, encoding categorical variables, dataset structure.
 *   **Tools:** Python, Pandas, NumPy
 
-### [Week 2: Titanic Exploratory Data Analysis (EDA)](./Week-2-titanic-exploratory-data-analysis)
+### [Project 2: Titanic Exploratory Data Analysis (EDA)](./Project-2-Titanic-Exploratory-Data-Analysis)
 **Focus:** Diving into the dataset to uncover patterns, trends, and correlations.
 *   **Key Skills:** Data visualization, statistical summaries, correlation heatmaps.
 *   **Tools:** Python, Matplotlib, Seaborn, Pandas

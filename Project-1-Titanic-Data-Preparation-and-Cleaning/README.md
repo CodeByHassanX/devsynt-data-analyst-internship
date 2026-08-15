@@ -1,8 +1,8 @@
-# 🚢 Week 1: Titanic Data Preparation and Cleaning
+# 🚢 Project 1: Titanic Data Preparation and Cleaning
 
 > **Objective:** Master the foundational steps of data analysis by preparing and cleaning the classic Titanic dataset.
 
-Welcome to the Week 1 content for the **DevSyn Data Analyst Internship**! This week focuses heavily on transforming raw, messy data into a clean, analysis-ready format.
+Welcome to the Project 1 content for the **DevSyn Data Analyst Internship**! This project focuses heavily on transforming raw, messy data into a clean, analysis-ready format.
 
 ---
 

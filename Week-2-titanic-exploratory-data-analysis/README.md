@@ -1,8 +1,8 @@
-# 📊 Week 2: Titanic Exploratory Data Analysis (EDA)
+# 📊 Project 2: Titanic Exploratory Data Analysis (EDA)
 
 > **Objective:** Dive deep into the cleaned Titanic dataset to uncover patterns, trends, and correlations through Exploratory Data Analysis.
 
-Welcome to the Week 2 content for the **DevSyn Data Analyst Internship**! This week shifts focus from data preparation to visual storytelling and statistical exploration.
+Welcome to the Project 2 content for the **DevSyn Data Analyst Internship**! This project shifts focus from data preparation to visual storytelling and statistical exploration.
 
 ---
 
