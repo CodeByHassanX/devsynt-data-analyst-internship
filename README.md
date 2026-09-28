@@ -27,5 +27,10 @@ Welcome to my internship repository! This project tracks my progress and hands-o
 *   **Key Skills:** Data visualization, statistical summaries, correlation heatmaps.
 *   **Tools:** Python, Matplotlib, Seaborn, Pandas
 
+### [Project 4: Customer Churn & Retention Analysis](./Project-4-Customer-Churn-Analysis)
+**Focus:** Analyzing customer churn, segmentation, and retention strategies.
+*   **Key Skills:** Data cleaning, churn analysis, statistical testing, customer segmentation.
+*   **Tools:** Python, Pandas, Matplotlib, Power BI
+
 ---
 *Created and maintained by Hassan during the DevSyn Data Analyst Internship (2026).*
